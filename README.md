@@ -1,4 +1,3 @@
 # Actividad 5.2 Programación paralela y concurrente
-Authors:
+Author:
 - Said Ortigoza Trujillo, A01707430
-- Miguel Tang Feng, A01610836
