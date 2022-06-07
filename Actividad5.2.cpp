@@ -1,8 +1,7 @@
 // =================================================================
 //
 // File: Actividad5.2.cpp
-// Authors: Said Ortigoza Trujillo
-//          Miguel Tang Feng
+// Author: Said Ortigoza Trujillo
 // Description: This file contains the code that adds all the
 //				prime numbers under 5000000 using pthreads.
 //              To compile: g++ Actividad5.2.cpp -lpthread
